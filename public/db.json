@@ -1,0 +1,165 @@
+[
+    {
+        "id": 0,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-r/wc1200/6287803323.jpg",
+        "title": "Корсет NEW TASTY",
+       "catg": 1,          
+        "price": 640,
+        "priceNonSale": 2740,
+        "namecatalog": "clothes",
+        "size": [
+            42 ,
+            44 ,
+            46 ,
+            48 ,
+            50 
+        ],
+        "rating": 6,
+        "salesman": "Послезавтра доставит Ozon, продавец ИП Милованов В.В."
+    },
+    {
+        "id": 1,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-2/wc1200/6046515602.jpg",
+        "title": "Бюстгальтер пуш-ап Luce del Sole Sposa",
+       "catg": 1,     
+        "price": 399,
+        "priceNonSale": 999,
+        "namecatalog": "clothes",
+        "size": [
+            65,
+            75
+        ],
+        "rating": 3,
+        "salesman": "Послезавтра доставит Ozon, продавец ВЕСТ ТРЕЙД"
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-z/wc1200/6332629307.jpg",
+        "title": "Велосипедки",
+       "catg": 1,     
+        "price": 373,
+        "priceNonSale": 1114,
+        "namecatalog": "clothes",
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54
+        ],
+        "rating": 4,
+        "salesman": "Послезавтра доставит Ozon, продавец KORZUN TEAM"
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-t/wc1200/6291486161.jpg",
+        "title": "Купальные плавки ozozylo",
+       "catg": 1,     
+        "price": 1127,
+        "priceNonSale": 1827,
+        "namecatalog": "clothes",
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54
+        ],
+        "rating": 5,
+        "salesman": "Послезавтра доставит Ozon, продавец ozozylo"
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-t/wc1200/6327312893.jpg",
+        "title": "Пижама QIWY",
+       "catg": 1,     
+        "price": 506,
+        "priceNonSale": 1986,
+        "namecatalog": "clothes",
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50
+        ],
+        "rating": 7,
+        "salesman": "Послезавтра доставит Ozon, продавец ИП Мирошник"
+    },
+    {
+        "id": 5,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-h/wc1200/6297192257.jpg",
+        "title": "Рубашка",
+       "catg": 1,     
+        "price": 1464,
+        "priceNonSale": 3224,
+        "namecatalog": "clothes",
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "rating": 3,
+        "salesman": "Послезавтра доставит Ozon, продавец ALESANDRO"
+    },
+    {
+        "id": 6,
+        "imgUrl": "https://cdn1.ozone.ru/s3/multimedia-x/wc1200/6320929017.jpg",
+        "title": "Трусы, Комплект трусов слипы Delyamer, 3 шт",
+       "catg": 1,     
+        "price": 1464,
+        "priceNonSale": 3224,
+        "namecatalog": "clothes",
+        "size": [
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+        ],
+        "rating": 3,
+        "salesman": "Послезавтра доставит Ozon, продавец ALESANDRO"
+    },
+    {
+        "id": 7,
+        "imgUrl": "https://cdn0.ozone.ru/s3/multimedia-2/wc1200/6329718782.jpg",
+        "title": "Босоножки Maniolini",
+        "catg": 2,     
+        "price": 4950,
+        "priceNonSale": 7290,
+        "namecatalog": "shoes",
+        "size": [
+            35,
+            36,
+            37,
+            40,
+            41
+    
+        ],
+        "rating": 3,
+        "salesman": "Послезавтра доставит Ozon, продавец ALESANDRO"
+    },
+    {
+        "id": 8,
+        "imgUrl": "https://cdn0.ozone.ru/s3/multimedia-1/wc1200/6075181537.jpg",
+        "title": "Лолита-Набоков Владимир Владимирович",
+        "catg": 3,     
+        "price": 590,
+        "priceNonSale": 750,
+        "namecatalog": "books",
+        "size": [
+        "Серия"
+    
+        ],
+        "rating": 6,
+        "salesman": "Послезавтра доставит Ozon"
+    }
+]

@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.rid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 10px 10px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    ". . ."
+
+}
+
+.sidebar {
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-template-rows: 1fr;
+  gap: 0px 20px;
+  grid-template-areas:
+    ". .";
+
+}
+
+.paginateWrapper {
+  margin-top: 70px;
+  width: 600px;
+  align-content: center;
+  display: flex;
+}
+
+.paginate {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+
+.paginate .selected {
+  border: none;
+  background-color: blue;
+  border-radius: 10%;
+
+  color: aliceblue;
+
+}
+
+.paginate a {
+  color: blue;
+  margin: 20px;
+}
+
+
+.selected a {
+  color: white;
+}
+
+.cartclear {
+  margin: 0;
+  background: rgba(230, 230, 0, 0.473);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.cartclear h1 {
+  font-size: 30px;
+}
+.cart_global{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.minus_item:disabled{
+  background-color: darkgray;
+}
